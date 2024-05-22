@@ -10,8 +10,8 @@ This course will teach you the fundamentals of NumPy, a library that supports ma
 
 ## Scenarios
 
-|   Index | Name                                               | Difficulty   | URL                                                                       |
-|---------|----------------------------------------------------|--------------|---------------------------------------------------------------------------|
+|   Index | Name                                              | Difficulty   | URL                                                                       |
+|---------|---------------------------------------------------|--------------|---------------------------------------------------------------------------|
 |      01 | 📖 Your First NumPy Lab                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/92735'>Start Lab</a>       |
 |      02 | 📖 Array Attributes and Dtype                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8027'>Start Lab</a>        |
 |      03 | 📖 NumPy Arrays and Data Types                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/4996'>Start Lab</a>        |
