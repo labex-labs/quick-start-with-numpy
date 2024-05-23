@@ -10,7 +10,7 @@ This course will teach you the fundamentals of NumPy, a library that supports ma
 
 ## Scenarios
 
-|   Index | Name                                              | Difficulty   | URL                                                                       |
+|   Index | Name                                              | Difficulty   | Practice                                                                  |
 |---------|---------------------------------------------------|--------------|---------------------------------------------------------------------------|
 |      01 | 📖 Your First NumPy Lab                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/92735'>Start Lab</a>       |
 |      02 | 📖 Array Attributes and Dtype                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8027'>Start Lab</a>        |
@@ -27,4 +27,9 @@ This course will teach you the fundamentals of NumPy, a library that supports ma
 |      13 | 📖 NumPy File IO                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/127'>Start Lab</a>         |
 |      14 | 📖 NumPy Advanced Topics                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/11'>Start Lab</a>          |
 |      15 | 🎯 NumPy Math Games                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/10'>Start Challenge</a>    |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [NumPy Free Tutorials](https://github.com/labex-labs/numpy-free-tutorials)
 
