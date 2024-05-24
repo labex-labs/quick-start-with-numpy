@@ -1,6 +1,6 @@
 # Quick Start with NumPy
 
-![Quick Start with NumPy](https://cover-creator.labex.io/quick-start-with-numpy.png)
+![Quick Start with NumPy](https://cover-creator.appbot.io/quick-start-with-numpy.png)
 
 This course will teach you the fundamentals of NumPy, a library that supports many mathematical operations. 
 
