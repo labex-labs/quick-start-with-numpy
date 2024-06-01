@@ -30,7 +30,7 @@ This course will teach you the fundamentals of NumPy, a library that supports ma
 
 ## More
 
-- 🔗 [NumPy Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [NumPy Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [NumPy Free Tutorials](https://github.com/labex-labs/numpy-free-tutorials)
+- 🔗 [Data Science Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Data Science Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Data Science Free Tutorials](https://github.com/labex-labs/data-science-free-tutorials)
 
