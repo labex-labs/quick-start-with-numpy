@@ -26,8 +26,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                               | Difficulty   | Practice                                                                                                                      |
-|---------|----------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                              | Difficulty   | Practice                                                                                                                      |
+|---------|---------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------|
 |      01 | 📖 Your First NumPy Lab                            | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/numpy-your-first-numpy-lab-92735'>Start Lab</a>                           |
 |      02 | 📖 Array Attributes and Dtype                      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/numpy-array-attributes-and-dtype-8027'>Start Lab</a>                      |
 |      03 | 📖 NumPy Arrays and Data Types                     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/numpy-numpy-arrays-and-data-types-4996'>Start Lab</a>                     |
