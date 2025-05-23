@@ -32,25 +32,25 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 
 |   인덱스 | 이름                                               | 난이도   | 연습                                                                                                                              |
 |----------|----------------------------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Your First NumPy Lab                            | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/numpy-your-first-numpy-lab-92735'>실습 시작</a>                            |
-|       02 | 📖 Array Attributes and Dtype                      | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/python-array-attributes-and-dtype-8027'>실습 시작</a>                      |
-|       03 | 📖 NumPy Arrays and Data Types                     | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/python-numpy-arrays-and-data-types-4996'>실습 시작</a>                     |
-|       04 | 🎯 NumPy in Space                                  | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/python-numpy-in-space-33961'>도전 시작</a>                                      |
-|       05 | 🎯 NumPy Array Datatype Converter                  | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/python-numpy-array-datatype-converter-9187'>도전 시작</a>                       |
-|       06 | 📖 NumPy Array Operations                          | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/numpy-numpy-array-operations-1403'>실습 시작</a>                           |
-|       07 | 🎯 NumPy Array Operation                           | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/numpy-numpy-array-operation-8708'>도전 시작</a>                                 |
-|       08 | 📖 NumPy Slicing and Indexing                      | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/python-numpy-slicing-and-indexing-352'>실습 시작</a>                       |
-|       09 | 🎯 Array Indexing and Slicing                      | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/python-array-indexing-and-slicing-38504'>도전 시작</a>                          |
-|       10 | 📖 Efficient NumPy Array Multiplication Operations | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/python-efficient-numpy-array-multiplication-operations-5007'>실습 시작</a> |
-|       11 | 📖 NumPy Shape Manipulation                        | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/numpy-numpy-shape-manipulation-214'>실습 시작</a>                          |
-|       12 | 🎯 Make NumPy Array Your Shape                     | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/python-make-numpy-array-your-shape-8687'>도전 시작</a>                          |
-|       13 | 📖 NumPy File IO                                   | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/python-numpy-file-io-127'>실습 시작</a>                                    |
-|       14 | 📖 NumPy Advanced Topics                           | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/python-numpy-advanced-topics-11'>실습 시작</a>                             |
-|       15 | 🎯 NumPy Math Games                                | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/python-numpy-math-games-10'>도전 시작</a>                                       |
+|       01 | 📖 Your First NumPy Lab                            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/numpy-your-first-numpy-lab-92735'>실습 시작</a>                            |
+|       02 | 📖 Array Attributes and Dtype                      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-array-attributes-and-dtype-8027'>실습 시작</a>                      |
+|       03 | 📖 NumPy Arrays and Data Types                     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-numpy-arrays-and-data-types-4996'>실습 시작</a>                     |
+|       04 | 🎯 NumPy in Space                                  | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-numpy-in-space-33961'>도전 시작</a>                                      |
+|       05 | 🎯 NumPy Array Datatype Converter                  | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-numpy-array-datatype-converter-9187'>도전 시작</a>                       |
+|       06 | 📖 NumPy Array Operations                          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/numpy-numpy-array-operations-1403'>실습 시작</a>                           |
+|       07 | 🎯 NumPy Array Operation                           | 초급     | <a target='_blank' href='https://labex.io/ko/labs/numpy-numpy-array-operation-8708'>도전 시작</a>                                 |
+|       08 | 📖 NumPy Slicing and Indexing                      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-numpy-slicing-and-indexing-352'>실습 시작</a>                       |
+|       09 | 🎯 Array Indexing and Slicing                      | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-array-indexing-and-slicing-38504'>도전 시작</a>                          |
+|       10 | 📖 Efficient NumPy Array Multiplication Operations | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-efficient-numpy-array-multiplication-operations-5007'>실습 시작</a> |
+|       11 | 📖 NumPy Shape Manipulation                        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/numpy-numpy-shape-manipulation-214'>실습 시작</a>                          |
+|       12 | 🎯 Make NumPy Array Your Shape                     | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-make-numpy-array-your-shape-8687'>도전 시작</a>                          |
+|       13 | 📖 NumPy File IO                                   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-numpy-file-io-127'>실습 시작</a>                                    |
+|       14 | 📖 NumPy Advanced Topics                           | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-numpy-advanced-topics-11'>실습 시작</a>                             |
+|       15 | 🎯 NumPy Math Games                                | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-numpy-math-games-10'>도전 시작</a>                                       |
 
 ## 더 보기
 
-- 🔗 [NumPy Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [NumPy Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [NumPy Free Tutorials](https://github.com/labex-labs/numpy-free-tutorials)
+- 🔗 [NumPy 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [NumPy 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [NumPy 무료 튜토리얼](https://github.com/labex-labs/numpy-free-tutorials)
 
