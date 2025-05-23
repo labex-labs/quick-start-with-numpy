@@ -32,25 +32,25 @@ Saiba mais sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 |   Índice | Nome                                               | Dificuldade   | Prática                                                                                                                             |
 |----------|----------------------------------------------------|---------------|-------------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Your First NumPy Lab                            | ★☆☆           | <a target='_blank' href='https://labex.io/pt/tutorials/numpy-your-first-numpy-lab-92735'>Iniciar Lab</a>                            |
-|       02 | 📖 Array Attributes and Dtype                      | ★☆☆           | <a target='_blank' href='https://labex.io/pt/tutorials/python-array-attributes-and-dtype-8027'>Iniciar Lab</a>                      |
-|       03 | 📖 NumPy Arrays and Data Types                     | ★☆☆           | <a target='_blank' href='https://labex.io/pt/tutorials/python-numpy-arrays-and-data-types-4996'>Iniciar Lab</a>                     |
-|       04 | 🎯 NumPy in Space                                  | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/python-numpy-in-space-33961'>Iniciar Desafio</a>                                  |
-|       05 | 🎯 NumPy Array Datatype Converter                  | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/python-numpy-array-datatype-converter-9187'>Iniciar Desafio</a>                   |
-|       06 | 📖 NumPy Array Operations                          | ★☆☆           | <a target='_blank' href='https://labex.io/pt/tutorials/numpy-numpy-array-operations-1403'>Iniciar Lab</a>                           |
-|       07 | 🎯 NumPy Array Operation                           | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/numpy-numpy-array-operation-8708'>Iniciar Desafio</a>                             |
-|       08 | 📖 NumPy Slicing and Indexing                      | ★☆☆           | <a target='_blank' href='https://labex.io/pt/tutorials/python-numpy-slicing-and-indexing-352'>Iniciar Lab</a>                       |
-|       09 | 🎯 Array Indexing and Slicing                      | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/python-array-indexing-and-slicing-38504'>Iniciar Desafio</a>                      |
-|       10 | 📖 Efficient NumPy Array Multiplication Operations | ★☆☆           | <a target='_blank' href='https://labex.io/pt/tutorials/python-efficient-numpy-array-multiplication-operations-5007'>Iniciar Lab</a> |
-|       11 | 📖 NumPy Shape Manipulation                        | ★☆☆           | <a target='_blank' href='https://labex.io/pt/tutorials/numpy-numpy-shape-manipulation-214'>Iniciar Lab</a>                          |
-|       12 | 🎯 Make NumPy Array Your Shape                     | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/python-make-numpy-array-your-shape-8687'>Iniciar Desafio</a>                      |
-|       13 | 📖 NumPy File IO                                   | ★☆☆           | <a target='_blank' href='https://labex.io/pt/tutorials/python-numpy-file-io-127'>Iniciar Lab</a>                                    |
-|       14 | 📖 NumPy Advanced Topics                           | ★☆☆           | <a target='_blank' href='https://labex.io/pt/tutorials/python-numpy-advanced-topics-11'>Iniciar Lab</a>                             |
-|       15 | 🎯 NumPy Math Games                                | ★☆☆           | <a target='_blank' href='https://labex.io/pt/labs/python-numpy-math-games-10'>Iniciar Desafio</a>                                   |
+|       01 | 📖 Your First NumPy Lab                            | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/numpy-your-first-numpy-lab-92735'>Iniciar Lab</a>                            |
+|       02 | 📖 Array Attributes and Dtype                      | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/python-array-attributes-and-dtype-8027'>Iniciar Lab</a>                      |
+|       03 | 📖 NumPy Arrays and Data Types                     | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/python-numpy-arrays-and-data-types-4996'>Iniciar Lab</a>                     |
+|       04 | 🎯 NumPy in Space                                  | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-numpy-in-space-33961'>Iniciar Desafio</a>                                  |
+|       05 | 🎯 NumPy Array Datatype Converter                  | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-numpy-array-datatype-converter-9187'>Iniciar Desafio</a>                   |
+|       06 | 📖 NumPy Array Operations                          | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/numpy-numpy-array-operations-1403'>Iniciar Lab</a>                           |
+|       07 | 🎯 NumPy Array Operation                           | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/numpy-numpy-array-operation-8708'>Iniciar Desafio</a>                             |
+|       08 | 📖 NumPy Slicing and Indexing                      | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/python-numpy-slicing-and-indexing-352'>Iniciar Lab</a>                       |
+|       09 | 🎯 Array Indexing and Slicing                      | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-array-indexing-and-slicing-38504'>Iniciar Desafio</a>                      |
+|       10 | 📖 Efficient NumPy Array Multiplication Operations | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/python-efficient-numpy-array-multiplication-operations-5007'>Iniciar Lab</a> |
+|       11 | 📖 NumPy Shape Manipulation                        | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/numpy-numpy-shape-manipulation-214'>Iniciar Lab</a>                          |
+|       12 | 🎯 Make NumPy Array Your Shape                     | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-make-numpy-array-your-shape-8687'>Iniciar Desafio</a>                      |
+|       13 | 📖 NumPy File IO                                   | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/python-numpy-file-io-127'>Iniciar Lab</a>                                    |
+|       14 | 📖 NumPy Advanced Topics                           | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/python-numpy-advanced-topics-11'>Iniciar Lab</a>                             |
+|       15 | 🎯 NumPy Math Games                                | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-numpy-math-games-10'>Iniciar Desafio</a>                                   |
 
 ## Mais
 
-- 🔗 [NumPy Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [NumPy Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [NumPy Free Tutorials](https://github.com/labex-labs/numpy-free-tutorials)
+- 🔗 [NumPy Cursos de Programação](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [NumPy Projetos de Programação](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [NumPy Tutoriais Gratuitos](https://github.com/labex-labs/numpy-free-tutorials)
 
