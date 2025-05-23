@@ -26,31 +26,31 @@ LabEx 是一个专注于编程和技术的交互式动手学习平台。它结�
 - 不断增长的学习资源，包含 30 个技能树和超过 6,000 个实验。
 - 基于 ChatGPT 构建的 AI 学习助手 Labby，提供对话式学习体验。
 
-了解更多关于 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+了解更多 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
 
 ## 练习
 
 |   序号 | 名称                         | 难度   | 练习                                                                                                                             |
 |--------|------------------------------|--------|----------------------------------------------------------------------------------------------------------------------------------|
-|     01 | 📖 你的第一个 NumPy 实验     | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/numpy-your-first-numpy-lab-92735'>开始实验</a>                            |
-|     02 | 📖 数组属性与数据类型        | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/python-array-attributes-and-dtype-8027'>开始实验</a>                      |
-|     03 | 📖 NumPy 数组与数据类型      | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/python-numpy-arrays-and-data-types-4996'>开始实验</a>                     |
-|     04 | 🎯 太空中的 NumPy            | ★☆☆    | <a target='_blank' href='https://labex.io/zh/labs/python-numpy-in-space-33961'>开始挑战</a>                                      |
-|     05 | 🎯 NumPy 数组数据类型转换器  | ★☆☆    | <a target='_blank' href='https://labex.io/zh/labs/python-numpy-array-datatype-converter-9187'>开始挑战</a>                       |
-|     06 | 📖 NumPy 数组操作            | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/numpy-numpy-array-operations-1403'>开始实验</a>                           |
-|     07 | 🎯 NumPy 数组操作            | ★☆☆    | <a target='_blank' href='https://labex.io/zh/labs/numpy-numpy-array-operation-8708'>开始挑战</a>                                 |
-|     08 | 📖 NumPy 切片与索引          | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/python-numpy-slicing-and-indexing-352'>开始实验</a>                       |
-|     09 | 🎯 数组索引与切片            | ★☆☆    | <a target='_blank' href='https://labex.io/zh/labs/python-array-indexing-and-slicing-38504'>开始挑战</a>                          |
-|     10 | 📖 高效的 NumPy 数组乘法运算 | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/python-efficient-numpy-array-multiplication-operations-5007'>开始实验</a> |
-|     11 | 📖 NumPy 形状操作            | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/numpy-numpy-shape-manipulation-214'>开始实验</a>                          |
-|     12 | 🎯 让 NumPy 数组随心所变     | ★☆☆    | <a target='_blank' href='https://labex.io/zh/labs/python-make-numpy-array-your-shape-8687'>开始挑战</a>                          |
-|     13 | 📖 NumPy 文件输入输出        | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/python-numpy-file-io-127'>开始实验</a>                                    |
-|     14 | 📖 NumPy 高级主题            | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/python-numpy-advanced-topics-11'>开始实验</a>                             |
-|     15 | 🎯 NumPy 数学游戏            | ★☆☆    | <a target='_blank' href='https://labex.io/zh/labs/python-numpy-math-games-10'>开始挑战</a>                                       |
+|     01 | 📖 你的第一个 NumPy 实验     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/numpy-your-first-numpy-lab-92735'>开始实验</a>                            |
+|     02 | 📖 数组属性与数据类型        | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/python-array-attributes-and-dtype-8027'>开始实验</a>                      |
+|     03 | 📖 NumPy 数组与数据类型      | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/python-numpy-arrays-and-data-types-4996'>开始实验</a>                     |
+|     04 | 🎯 太空中的 NumPy            | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-numpy-in-space-33961'>开始挑战</a>                                      |
+|     05 | 🎯 NumPy 数组数据类型转换器  | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-numpy-array-datatype-converter-9187'>开始挑战</a>                       |
+|     06 | 📖 NumPy 数组操作            | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/numpy-numpy-array-operations-1403'>开始实验</a>                           |
+|     07 | 🎯 NumPy 数组操作            | 初级   | <a target='_blank' href='https://labex.io/zh/labs/numpy-numpy-array-operation-8708'>开始挑战</a>                                 |
+|     08 | 📖 NumPy 切片与索引          | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/python-numpy-slicing-and-indexing-352'>开始实验</a>                       |
+|     09 | 🎯 数组索引与切片            | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-array-indexing-and-slicing-38504'>开始挑战</a>                          |
+|     10 | 📖 高效的 NumPy 数组乘法运算 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/python-efficient-numpy-array-multiplication-operations-5007'>开始实验</a> |
+|     11 | 📖 NumPy 形状操作            | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/numpy-numpy-shape-manipulation-214'>开始实验</a>                          |
+|     12 | 🎯 让 NumPy 数组随心所变     | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-make-numpy-array-your-shape-8687'>开始挑战</a>                          |
+|     13 | 📖 NumPy 文件输入输出        | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/python-numpy-file-io-127'>开始实验</a>                                    |
+|     14 | 📖 NumPy 高级主题            | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/python-numpy-advanced-topics-11'>开始实验</a>                             |
+|     15 | 🎯 NumPy 数学游戏            | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-numpy-math-games-10'>开始挑战</a>                                       |
 
 ## 更多
 
-- 🔗 [NumPy Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [NumPy Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [NumPy Free Tutorials](https://github.com/labex-labs/numpy-free-tutorials)
+- 🔗 [NumPy 编程课程](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [NumPy 编程项目](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [NumPy 免费教程](https://github.com/labex-labs/numpy-free-tutorials)
 
