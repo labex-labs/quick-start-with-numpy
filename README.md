@@ -14,6 +14,26 @@ This course will teach you the fundamentals of NumPy, a library that supports ma
 ![Python](https://img.shields.io/badge/Python-whitesmoke?style=for-the-badge&logo=python)
 
 
+## Exercises
+
+|   Index | Name                                                  | Difficulty   | Practice                                                                                                                       |
+|---------|-------------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 🟢 Your First NumPy Lab                            | Beginner     | <a target='_blank' href='https://labex.io/tutorials/numpy-your-first-numpy-lab-92735'>Start Lab</a>                            |
+|      02 | 📖 🟢 Array Attributes and Dtype                      | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-array-attributes-and-dtype-8027'>Start Lab</a>                      |
+|      03 | 📖 🟢 NumPy Arrays and Data Types                     | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-numpy-arrays-and-data-types-4996'>Start Lab</a>                     |
+|      04 | 🎯 🟢 NumPy in Space                                  | Beginner     | <a target='_blank' href='https://labex.io/labs/python-numpy-in-space-33961'>Start Challenge</a>                                |
+|      05 | 🎯 🟢 NumPy Array Datatype Converter                  | Beginner     | <a target='_blank' href='https://labex.io/labs/python-numpy-array-datatype-converter-9187'>Start Challenge</a>                 |
+|      06 | 📖 🟢 NumPy Array Operations                          | Beginner     | <a target='_blank' href='https://labex.io/tutorials/numpy-numpy-array-operations-1403'>Start Lab</a>                           |
+|      07 | 🎯 🟢 NumPy Array Operation                           | Beginner     | <a target='_blank' href='https://labex.io/labs/numpy-numpy-array-operation-8708'>Start Challenge</a>                           |
+|      08 | 📖 🟢 NumPy Slicing and Indexing                      | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-numpy-slicing-and-indexing-352'>Start Lab</a>                       |
+|      09 | 🎯 🟢 Array Indexing and Slicing                      | Beginner     | <a target='_blank' href='https://labex.io/labs/python-array-indexing-and-slicing-38504'>Start Challenge</a>                    |
+|      10 | 📖 🟢 Efficient NumPy Array Multiplication Operations | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-efficient-numpy-array-multiplication-operations-5007'>Start Lab</a> |
+|      11 | 📖 🔵 NumPy Shape Manipulation                        | Beginner     | <a target='_blank' href='https://labex.io/tutorials/numpy-numpy-shape-manipulation-214'>Start Lab</a>                          |
+|      12 | 🎯 🔵 Make NumPy Array Your Shape                     | Beginner     | <a target='_blank' href='https://labex.io/labs/python-make-numpy-array-your-shape-8687'>Start Challenge</a>                    |
+|      13 | 📖 🔵 NumPy File IO                                   | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-numpy-file-io-127'>Start Lab</a>                                    |
+|      14 | 📖 🔵 NumPy Advanced Topics                           | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-numpy-advanced-topics-11'>Start Lab</a>                             |
+|      15 | 🎯 🔵 NumPy Math Games                                | Beginner     | <a target='_blank' href='https://labex.io/labs/python-numpy-math-games-10'>Start Challenge</a>                                 |
+
 ## Environment
 
 LabEx is an interactive, hands-on learning platform dedicated to coding and technology. It combines labs, AI assistance, and virtual machines to provide a no-video, practical learning experience.
@@ -24,29 +44,9 @@ LabEx is an interactive, hands-on learning platform dedicated to coding and tech
 - Interactive online environments within the browser, with automated step-by-step checks.
 - A structured content organization with the Skill Tree based learning system.
 - A growing learning resource of 30 Skill Trees and over 6,000 Labs.
-- The AI learning assistant Labby, built on ChatGPT, providing a conversational learning experience.
+- The learning assistant Labby, built on lastest AI models, providing a conversational learning experience.
 
 Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## Exercises
-
-|   Index | Name                                               | Difficulty   | Practice                                                                                                                       |
-|---------|----------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Your First NumPy Lab                            | Beginner     | <a target='_blank' href='https://labex.io/tutorials/numpy-your-first-numpy-lab-92735'>Start Lab</a>                            |
-|      02 | 📖 Array Attributes and Dtype                      | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-array-attributes-and-dtype-8027'>Start Lab</a>                      |
-|      03 | 📖 NumPy Arrays and Data Types                     | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-numpy-arrays-and-data-types-4996'>Start Lab</a>                     |
-|      04 | 🎯 NumPy in Space                                  | Beginner     | <a target='_blank' href='https://labex.io/labs/python-numpy-in-space-33961'>Start Challenge</a>                                |
-|      05 | 🎯 NumPy Array Datatype Converter                  | Beginner     | <a target='_blank' href='https://labex.io/labs/python-numpy-array-datatype-converter-9187'>Start Challenge</a>                 |
-|      06 | 📖 NumPy Array Operations                          | Beginner     | <a target='_blank' href='https://labex.io/tutorials/numpy-numpy-array-operations-1403'>Start Lab</a>                           |
-|      07 | 🎯 NumPy Array Operation                           | Beginner     | <a target='_blank' href='https://labex.io/labs/numpy-numpy-array-operation-8708'>Start Challenge</a>                           |
-|      08 | 📖 NumPy Slicing and Indexing                      | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-numpy-slicing-and-indexing-352'>Start Lab</a>                       |
-|      09 | 🎯 Array Indexing and Slicing                      | Beginner     | <a target='_blank' href='https://labex.io/labs/python-array-indexing-and-slicing-38504'>Start Challenge</a>                    |
-|      10 | 📖 Efficient NumPy Array Multiplication Operations | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-efficient-numpy-array-multiplication-operations-5007'>Start Lab</a> |
-|      11 | 📖 NumPy Shape Manipulation                        | Beginner     | <a target='_blank' href='https://labex.io/tutorials/numpy-numpy-shape-manipulation-214'>Start Lab</a>                          |
-|      12 | 🎯 Make NumPy Array Your Shape                     | Beginner     | <a target='_blank' href='https://labex.io/labs/python-make-numpy-array-your-shape-8687'>Start Challenge</a>                    |
-|      13 | 📖 NumPy File IO                                   | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-numpy-file-io-127'>Start Lab</a>                                    |
-|      14 | 📖 NumPy Advanced Topics                           | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-numpy-advanced-topics-11'>Start Lab</a>                             |
-|      15 | 🎯 NumPy Math Games                                | Beginner     | <a target='_blank' href='https://labex.io/labs/python-numpy-math-games-10'>Start Challenge</a>                                 |
 
 ## More
 
